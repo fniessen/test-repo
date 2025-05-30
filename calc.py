@@ -8,3 +8,4 @@ def subtract(a, b):
 def multiply(a, b):
     return a * b
 assert subtract(5, 2) == 3
+assert multiply(2, 3) == 6
